@@ -1,0 +1,18 @@
+Scheda "Parametri di ingresso"
+Parametri EA. Per iniziare in modo conservativo: 
+
+InpLotSize 0.01 (minimo, solo per testare)
+InpUseDynamicLot false
+InpRiskPercent 1.0
+InpMaxPositions 1
+InpMagicNumber 202401 (lascia invariato)
+InpFastEMA 21
+InpSlowEMA 50
+InpTrendEMA 200
+InpRSIPeriod 14
+InpSLMultiplier 1.5
+InpTPMultiplier 2.5
+InpUseBreakeven true
+InpUseTrailing true
+InpSessionStart 8
+InpSessionEnd 20
